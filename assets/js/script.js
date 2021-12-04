@@ -25,25 +25,24 @@ $(function(){
 });
 
 // Navigation grow section
-
     $(function() {
-        $("#button1").mouseenter(function() {$("#effect1").animate({width: 340}, 700);}) ,
-        $("#button1").mouseleave(function() {$("#effect1").animate({width: 225}, 500);})
+        $("#button1").mouseenter(function() {$("#effect1").stop().animate({width: 330}, 700);}) ,
+        $("#button1").mouseleave(function() {$("#effect1").animate({width: 225}, 500)})
     });
     $(function() {
-        $("#button2").mouseenter(function() {$("#effect2").animate({width: 340}, 700);}) ,
+        $("#button2").mouseenter(function() {$("#effect2").animate({width: 330}, 700);}) ,
         $("#button2").mouseleave(function() {$("#effect2").animate({width: 225}, 500);})
     });
     $(function() {
-        $("#button3").mouseenter(function() {$("#effect3").animate({width: 340}, 700);}) ,
+        $("#button3").mouseenter(function() {$("#effect3").animate({width: 330}, 700);}) ,
         $("#button3").mouseleave(function() {$("#effect3").animate({width: 225}, 500);})
     });
     $(function() {
-        $("#button4").mouseenter(function() {$("#effect4").animate({width: 340}, 700);}) ,
+        $("#button4").mouseenter(function() {$("#effect4").animate({width: 330}, 700);}) ,
         $("#button4").mouseleave(function() {$("#effect4").animate({width: 225}, 500);})
     });
     $(function() {
-        $("#button5").mouseenter(function() {$("#effect5").animate({width: 340}, 700);}) ,
+        $("#button5").mouseenter(function() {$("#effect5").animate({width: 330}, 700);}) ,
         $("#button5").mouseleave(function() {$("#effect5").animate({width: 225}, 500);})
     });
     

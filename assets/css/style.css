@@ -4,9 +4,7 @@ body {
 
 .pageCard {
     background-color: white;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-bottom: 5px;
+    padding: 5px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
@@ -16,12 +14,16 @@ header {
     border: 2px solid;
     border-color:rgb(37, 50, 88);
     border-radius: 5px;
-    padding: 0.5rem 0.5rem;
+    padding: 0.5rem;
 }
 
 header h1 {
     color:white;
     display: inline;
+}
+
+.heroimg {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 a {
@@ -39,11 +41,11 @@ li {
 }
 
 .maincontent {
-    background-color: grey;
+    background-color: rgb(180, 180, 180);
 }
 
 article {
-    background-color:grey;
+    background-color:rgb(210, 210, 210);
     border: hidden;
     border-color: black;
     border-radius: 5px;
@@ -91,6 +93,7 @@ footer h3 {
         height: 40px;  
         padding: 0.4em; 
         position: relative;
+        left: 12px;
         border-radius: 0px 5px 0px 0px;
         clip-path: polygon(0 0, 100% 0, 80% 100%, 0 100%);
         background: rgb(37, 50, 88);
