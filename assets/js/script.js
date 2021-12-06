@@ -83,7 +83,8 @@ var getUserRepos = function (user) {
       
           var repoEl = document.createElement('div');
           repoEl.classList = 'list-item flex-row justify-space-between align-center';
-      
+          repoEl.innerHTML = `<span class="iconify-inline" data-icon="bx:bxs-folder-open" style="color: white; margin-right: 10px;" data-width="24" data-height="24"></span>`;
+
           var titleEl = document.createElement('a');
           titleEl.classList = "github";
           titleEl.href = "http://github.com/Interceptr83/" + repoName;
