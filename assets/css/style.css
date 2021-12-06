@@ -78,6 +78,10 @@ article p {
     justify-content: center;
 }
 
+p.projects {
+    color: white;
+}
+
 .centerPic {
     display: block;
     margin-left: auto;
