@@ -61,6 +61,12 @@ li {
     background-color: rgb(180, 180, 180);
 }
 
+@media (max-width: 993px) {
+    .contentSec {
+        padding-top: 200px;
+    }
+}
+
 article {
     background-color:rgb(210, 210, 210);
     border: hidden;
@@ -155,6 +161,8 @@ h6 {
 }
 
 footer {
+    display: flex;
+    justify-content: right;
     background-color:rgb(37, 50, 88);
     box-shadow: 3px 3px 8px rgb(0, 0, 0);
     border: solid;

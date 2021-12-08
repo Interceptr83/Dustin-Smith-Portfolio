@@ -75,9 +75,10 @@ var getUserRepos = function (user) {
             alert('Unable to connect to GitHub');
           });
       };
+      console.log()
 
       var displayRepos = function (repos, searchTerm) {
-        
+        console.log(repos);
         for (var i = 0; i < repos.length; i++) {
           var repoName = repos[i].name;
       
