@@ -24,11 +24,11 @@ THEN the UI scrolls to the corresponding section - DONE<br>
 WHEN I click on the link to the section about their work<br>
 THEN the UI scrolls to a section with titled images of the developer's applications - DONE<br>
 WHEN I am presented with the developer's first application<br>
-THEN that application's image should be larger in size than the others - IN PROGRESS<br>
+THEN that application's image should be larger in size than the others - INTENTIONALLY DID NOT DO THIS AS I WANTED DIFFERENT STYLING FOR MY PAGE<br>
 WHEN I click on the images of the applications<br>
 THEN I am taken to that deployed application - DONE<br>
 WHEN I resize the page or view the site on various screens and devices<br>
-THEN I am presented with a responsive layout that adapts to my viewport - ALMOST<br>
+THEN I am presented with a responsive layout that adapts to my viewport - DONE<br>
 
 # Links
 --------
