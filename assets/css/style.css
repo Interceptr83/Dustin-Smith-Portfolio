@@ -65,6 +65,15 @@ li {
     .contentSec {
         padding-top: 200px;
     }
+    .pageCard {
+        height: 190vh;
+    }
+    footer {
+        display: none;
+    }
+    #hero {
+        display: none;
+    }
 }
 
 article {
@@ -161,8 +170,7 @@ h6 {
 }
 
 footer {
-    display: flex;
-    justify-content: right;
+    
     background-color:rgb(37, 50, 88);
     box-shadow: 3px 3px 8px rgb(0, 0, 0);
     border: solid;
