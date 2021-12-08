@@ -1,4 +1,4 @@
-# Homework_2
+# Dustin-Smith-Portfolio
 Week 2 homework to crate a portfolio page
 -------------------------------------
 Dustin Smith - @interceptr83
