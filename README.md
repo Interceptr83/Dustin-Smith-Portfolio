@@ -1,4 +1,7 @@
 # Dustin-Smith-Portfolio
+
+![readmescreenshot](https://user-images.githubusercontent.com/90010873/146138978-b931a102-c09a-4d67-8a40-f75c9657a941.jpg)
+
 Week 2 homework to crate a portfolio page
 -------------------------------------
 Dustin Smith - @interceptr83
