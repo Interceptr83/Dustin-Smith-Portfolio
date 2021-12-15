@@ -1,4 +1,7 @@
 # Dustin-Smith-Portfolio
+
+![readmescreenshot](https://user-images.githubusercontent.com/90010873/146138978-b931a102-c09a-4d67-8a40-f75c9657a941.jpg)
+
 Week 2 homework to crate a portfolio page
 -------------------------------------
 Dustin Smith - @interceptr83
@@ -24,11 +27,11 @@ THEN the UI scrolls to the corresponding section - DONE<br>
 WHEN I click on the link to the section about their work<br>
 THEN the UI scrolls to a section with titled images of the developer's applications - DONE<br>
 WHEN I am presented with the developer's first application<br>
-THEN that application's image should be larger in size than the others - IN PROGRESS<br>
+THEN that application's image should be larger in size than the others - INTENTIONALLY DID NOT DO THIS AS I WANTED DIFFERENT STYLING FOR MY PAGE<br>
 WHEN I click on the images of the applications<br>
 THEN I am taken to that deployed application - DONE<br>
 WHEN I resize the page or view the site on various screens and devices<br>
-THEN I am presented with a responsive layout that adapts to my viewport - ALMOST<br>
+THEN I am presented with a responsive layout that adapts to my viewport - DONE<br>
 
 # Links
 --------
